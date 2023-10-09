@@ -1,0 +1,10 @@
+The idea is to make a simple bug tracker for a project.
+
+So the first screen you see is a login screen to log into your account.
+
+Depending on your account type you can have access to certain project boards. (You can either be a Developer or a Bug tester).
+
+Once you arrive at a project you will be greeted by the project dashboard. As a bug tester you can create bug reports which you will have to input a short title, a description, a serverity level.
+
+As a Developer you can view the bug reports and solve them and set the status of that bug report.
+
